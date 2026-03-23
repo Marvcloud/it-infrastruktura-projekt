@@ -18,7 +18,7 @@ ________________________________________________________________
 -Stažení Windows Serveru s GUI (rozhraní) od Microsoftu v ISO formátu  
 -Instalace Windows Server (Standard Evaluation)  
 -Nastavení účtu admina  
-<img src="https://github.com/Marvcloud/it-infrastruktura-projekt/blob/Obrazky/instalaceVM1.png?raw=true" width="700" height="500">  
+<img src="https://raw.githubusercontent.com/Marvcloud/it-infrastruktura-projekt/refs/heads/Obrazky/instalaceVM1.png" width="700" height="500">  
 <img src="https://github.com/Marvcloud/it-infrastruktura-projekt/blob/Obrazky/instalaceVM4.png?raw=true" width="700" height="500">  
 
 #### **Krok 2:** *Active Directory*  

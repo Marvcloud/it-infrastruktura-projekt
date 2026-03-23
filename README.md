@@ -27,7 +27,10 @@ ________________________________________________________________
 -Proměna serverů na Domain Controller (DC)  
 <img src="https://github.com/Marvcloud/it-infrastruktura-projekt/blob/Obrazky/instalace_activedirectory.png?raw=true" width="700" height="500">  
 <img src="https://github.com/Marvcloud/it-infrastruktura-projekt/blob/Obrazky/instalace_activedirectory3.png?raw=true" width="700" height="500">  
+<img src="https://github.com/Marvcloud/it-infrastruktura-projekt/blob/Obrazky/servermanager_po_nastaveni_ad2.png?raw=true" width="700" height="500">
 
 #### **Krok 3:** *Organizační jednotky*  
 -Spustil jsem Powershell ISE jako Administrátor a vytvořil organizační  
 jednotky pro které později přidám uživatele  
+<img src="https://github.com/Marvcloud/it-infrastruktura-projekt/blob/Obrazky/OrganizacniJednotky.png?raw=true" width="700" height="500">  
+<img src="https://github.com/Marvcloud/it-infrastruktura-projekt/blob/Obrazky/OrganizacniJednotkyGUI.png?raw=true" width="700" height="500">

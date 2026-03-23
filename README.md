@@ -55,7 +55,7 @@ již existujicí uživatele, které jsem vytvořil
 -Složky se zde vytvoří pomocí těchto příkazů pro celý konkrétní tým  
 -Např. Marketing má 2 uživatele a díky tomuto kódu se vytvoří složka pro  
 oba dva naráz, kdyby tým marketingu měl 20 zaměstnanců/uživatelů, stačil  
-by tento kód pro vytvoření složek pro všech 20 zaměstnanců  
+by tento kód pro vytvoření složek všech 20 zaměstnanců  
 -Přidal jsem i příkaz Write-Host ze zvědavosti, který trochu "zlidští"  
 konzoli a přidá zprávu, že se složka pro někoho vytvořila
 <img src="https://raw.githubusercontent.com/Marvcloud/it-infrastruktura-projekt/refs/heads/Obrazky/VytvoreniSlozkyProCelouSkupinu.png" width="700" height="500">  

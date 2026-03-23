@@ -32,5 +32,5 @@ ________________________________________________________________
 #### **Krok 3:** *Organizační jednotky*  
 -Spustil jsem Powershell ISE jako Administrátor a vytvořil organizační  
 jednotky pro které později přidám uživatele  
-<img src="https://github.com/Marvcloud/it-infrastruktura-projekt/blob/Obrazky/OrganizacniJednotky.png?raw=true" width="700" height="500">  
+<img src="https://github.com/Marvcloud/it-infrastruktura-projekt/blob/Obrazky/OrganizacniJednoty.png?raw=true" width="700" height="500">  
 <img src="https://github.com/Marvcloud/it-infrastruktura-projekt/blob/Obrazky/OrganizacniJednotkyGUI.png?raw=true" width="700" height="500">

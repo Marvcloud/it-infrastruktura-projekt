@@ -4,7 +4,7 @@
 -Instalování Windows serveru  
 -Nastavení Active Directory Domain Services a DNS a následná správa  
 -Vytvoření Organizačních jednotek, uživatelů, skupin  
--Přiřazení uživatelů a automatizace  
+-Přiřazení uživatelů a automatizace vytváření složek  
 -Mírný troubleshooting
 
 ### **Použité technologie**  

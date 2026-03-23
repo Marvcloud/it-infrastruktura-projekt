@@ -18,3 +18,4 @@ ________________________________________________________________
 Stažení Windows Serveru s GUI od Microsoftu v ISO podobě.  
 Instalace Windows Server (Standard Evaluation)  
 Nastavení účtu admina  
+<img src="https://github.com/Marvcloud/it-infrastruktura-projekt/blob/Obrazky/instalaceVM1.png?raw=true" width="300" height="200">

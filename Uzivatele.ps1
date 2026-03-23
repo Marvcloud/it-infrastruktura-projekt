@@ -1,0 +1,5 @@
+New-ADUser -Name "Pavla Dvorakova" -SamAccountName "pavladvorakova" -Path "OU=Marketing,DC=domaci,DC=server" -AccountPassword (ConvertTo-SecureString "heslo123" -AsPlainText -Force) -Enabled $true
+New-ADUser -Name "Romana Cerna" -SamAccountName "romanacerna" -Path "OU=HR,DC=domaci,DC=server" -AccountPassword (ConvertTo-SecureString "heslo123" -AsPlainText -Force) -Enabled $true
+New-ADUser -Name "Dominika Nova" -SamAccountName "dominikanova" -Path "OU=Ucetnictvi,DC=domaci,DC=server" -AccountPassword (ConvertTo-SecureString "heslo123" -AsPlainText -Force) -Enabled $true
+New-ADUser -Name "Patrik Novak" -SamAccountName "patriknovak" -Path "OU=IT,DC=domaci,DC=server" -AccountPassword (ConvertTo-SecureString "heslo123" -AsPlainText -Force) -Enabled $true
+New-ADUser -Name "Petr Rovny" -SamAccountName "petrrovny" -Path "OU=Marketing,DC=domaci,DC=server" -AccountPassword (ConvertTo-SecureString "heslo123" -AsPlainText -Force) -Enabled $true

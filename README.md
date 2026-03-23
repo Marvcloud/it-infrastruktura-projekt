@@ -24,4 +24,10 @@ ________________________________________________________________
 #### **Krok 2:** *Active Directory*  
 -Přidání role Active Directory Domain Services  
 -Vytvoření domény: domaci.server  
--Proměna serverů na Domain Controller  
+-Proměna serverů na Domain Controller (DC)  
+<img src="https://github.com/Marvcloud/it-infrastruktura-projekt/blob/Obrazky/instalace_activedirectory.png?raw=true" width="700" height="500">  
+<img src="https://github.com/Marvcloud/it-infrastruktura-projekt/blob/Obrazky/instalace_activedirectory3.png?raw=true" width="700" height="500">  
+
+#### **Krok 3:** *Organizační jednotky*  
+-Spustil jsem Powershell ISE jako Administrátor a vytvořil organizační  
+jednotky pro které později přidám uživatele  

@@ -5,7 +5,7 @@
 -Nastavení Active Directory Domain Services a DNS a následná správa  
 -Vytvoření Organizačních jednotek, uživatelů, skupin  
 -Přiřazení uživatelů a automatizace  
--Mírný troubleshooting  
+-Mírný troubleshooting
 
 ### **Použité technologie**  
 Windows Server 2022 s GUI (.iso)  
@@ -60,3 +60,6 @@ by tento kód pro vytvoření složek všech 20 zaměstnanců
 konzoli a přidá zprávu, že se složka pro někoho vytvořila
 <img src="https://raw.githubusercontent.com/Marvcloud/it-infrastruktura-projekt/refs/heads/Obrazky/VytvoreniSlozkyProCelouSkupinu.png" width="700" height="500">  
 <img src="https://raw.githubusercontent.com/Marvcloud/it-infrastruktura-projekt/refs/heads/Obrazky/SlozkyProUzivateleGUI.png" width="700" height="500">  
+
+-Skripty jsem uložil jako soubory (.ps1) do branche "skripty", mohou se  
+díky tomu i naimportovat.
